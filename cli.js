@@ -3,8 +3,8 @@
 var fs = require('fs');
 var osf = require('child_process');
 var pack = require('./package.json');
-var filepath = 'custom_paths.json';
-var obj = require(__dirname + '/'+ filepath);
+var filepath = __dirname + '/' + 'custom_paths.json';
+var obj = require(filepath);
 
 
 

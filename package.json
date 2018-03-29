@@ -1,6 +1,6 @@
 {
   "name": "tcloudcli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TC Command Line based on NodeJS. Please make sure nodejs is installed before installig this",
   "main": "cli.js",
   "bin": {
